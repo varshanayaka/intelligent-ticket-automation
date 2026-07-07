@@ -8,6 +8,8 @@ methodology for reducing ticket-based effort in AM projects.
 > ticket classification, RPA-style auto-resolution bots, preventive self-healing monitoring,
 > and operational reporting (MTTR, automation rate, ticket trends).
 
+![Dashboard Screenshot](docs/dashboard_screenshot.png)
+
 ## Why this project
 
 This mirrors a real Application Maintenance automation stack:
