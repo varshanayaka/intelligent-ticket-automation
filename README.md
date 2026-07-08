@@ -14,7 +14,7 @@ methodology for reducing ticket-based effort in AM projects.
 
 This mirrors a real Application Maintenance automation stack:
 
-| Requirement (job description) | Where it's implemented |
+| Requirement  | Where it's implemented |
 |---|---|
 | Automation Anywhere / RPA-style bots | `src/bots/` — modular Task-Bot-style resolution bots |
 | Incident management | `schema.sql`, `src/main.py` — full ticket lifecycle: open → auto_resolved / escalated |
